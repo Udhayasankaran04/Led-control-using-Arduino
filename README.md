@@ -1,4 +1,4 @@
-#### NAME: Udhayasankaran
+#### NAME: UDHAYA SANKARAN M
 #### REG NO: 212222110051
 # EXP-01 Led control using Arduino
 
