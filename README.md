@@ -1,5 +1,5 @@
-#### NAME:Udhayasankaran
-#### REG NO:212222110051
+#### NAME: Udhayasankaran
+#### REG NO: 212222110051
 # EXP-01 Led-control-using-Arduino
 
 ## AIM
