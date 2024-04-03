@@ -1,7 +1,6 @@
 #### NAME:Udhayasankaran
 #### REG NO:212222110051
-# EXP-01
-# Led-control-using-Arduino
+# EXP-01 Led-control-using-Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
